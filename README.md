@@ -1,2 +1,1 @@
-# S-f-rdan_ileri_seviye_python_programlama_sad-k_turan
-Sıfırdan_ileri_seviye_python_programlama_sadık_turan
+Bu depo BTK Akademi Sadık Turan Sıfırdan İleri Seviye Python Programlama uygulamalarını içermektedir.
