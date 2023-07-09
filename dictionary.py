@@ -18,14 +18,14 @@ users = {
         'roles':['user'],
         'email':'fatmaakpunar42@gmail.com',
         'address':'istanbul',
-        'phone':'0534 391 28 24'
+        'phone':'05** *** ** **'
      } , 
       'merve akpunar' :{
         'age':18,
         'roles':['admin','user'],
-        'email':'meveakpunar234@gmail.com',
+        'email':'meveakpunar***@gmail.com',
         'address':'istanbul',
-        'phone':'0542 987 56 70'
+        'phone':'05** *** ** **'
       }
    
 }
