@@ -71,7 +71,7 @@ result = soup.titleistring #içindeki string bilgisi gelir
 
 result = soup.h2 #ilk h2'yi getirir
 
-result = soup.find_all('h2') #bütün h2'leri getiri
+result = soup.find_all('h2') #bütün h2'leri getirir
 result = soup.find_all('h2')[0] #ilk h2'yi getirir
 
 #result = soup.find_all('div')[1].ul.find_all('li') #bu şekilde de kullanılabilir
