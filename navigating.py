@@ -2,7 +2,7 @@ from selenium import webdriver
 
 driver = webdriver.Chrome()
 
-url = "http://githab.com"
+url = "http://github.com"
 driver.get(url)
 
 searchInput = driver.find_element_by_name("q")
