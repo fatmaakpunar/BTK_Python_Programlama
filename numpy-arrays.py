@@ -1,7 +1,7 @@
 import numpy as np
 
-#result = np.array([1,3,5,7,9])
-#result = np.arange(1,10)
+#result = np.array([1,3,5,7,9]) #çıktı [1 3 5 7 9]
+#result = np.arange(1,10) #çıktı [1 2 3 4 5 6 7 8 9]
 #result = np.arange(10,100,3) # 10 dan 100 e kadar üçer üçer
 #result = np.zeros(10) #10 tane 0
 #result =np.ones(10) # 10 tane 1
@@ -22,5 +22,6 @@ print(rnd_numbers)
 #result = rnd_numbers.mean()
 #result = rnd_numbers.argmin()
 result = rnd_numbers.argmax()
+
 
 print(result)
